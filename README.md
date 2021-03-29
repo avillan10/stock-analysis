@@ -39,10 +39,12 @@ Picture3_2018_CodeRunTime![image](https://user-images.githubusercontent.com/8029
 
 The challenging part of this module is getting used to the language/ syntax setup--coming from a background with zero experience to this extent, it was daunting to read all this, and forcing my brain to remember why certain actions have to be taken in order for particular codes to run smoothly. 
 
-## Summary
+### Summary
 
 - What are the advantages or disadvantages of refactoring code?
+
 The advantages of refactoring code is that it is much easier to sift through and correct as oppose to starting all over. However, the disadvantages of refactoring code is that it gets a bit tricky and strains the eyes to visualize the codes because it is basically a copy and paste technique with making some adjustments as you go through. One thing I learned is that google really is your best friend in completing the challenges. 
 
 - How do these pros and cons apply to refactoring the original VBA script?
+
 The pros and cons of refactoring apply to this challenge because there was easy parts and difficult parts to sift through the code and the previous modules, along with the use of google to search up codes/ assistance. Reading through the inital macros we created throughout the exercise, really helped me adjust the new refactored VBA codes.
